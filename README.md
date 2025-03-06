@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I'm Filip!!
+Looks like you found your way to my github profile. :blush:\
+Hopefully you like it. 🤙 \
+Rather empty for now, hopefully more to come! 📠
+
+
 
 <!--
 **IFilipBergmanI/IFilipBergmanI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
