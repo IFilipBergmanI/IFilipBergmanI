@@ -1,4 +1,4 @@
-## Hi I'm Filip!!
+## Hi, I'm Filip!!
 Looks like you found your way to my github profile. :blush:\
 Hopefully you like it. 🤙 \
 Rather empty for now, hopefully more to come! 📠
